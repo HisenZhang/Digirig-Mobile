@@ -4,6 +4,8 @@ Follow the project at https://digirig.net
 
 ## Fork notes
 
+Production files under electric/digirig-mobile/
+
 This edition is optimized for JLCPCB PCB Assembly Service:
 
 - Used part size 0603: more common
