@@ -8,8 +8,7 @@ Production files under electric/digirig-mobile/
 
 This edition is optimized for JLCPCB PCB Assembly Service:
 
-- Used part size 0603: more common
-- Used parts from JLC basic library
-- Rerouted wires
+- Remake project in EasyEDA, replace most of package into JLCPCB Basic lib part to reduce cost on assmbly service.
+- Rerouted some wires
 
 by Jingxi K0OZZ
